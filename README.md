@@ -21,7 +21,7 @@ This repository contains code and analysis for three different machine learning 
 - Each dataset is analyzed individually, and the best-performing models are highlighted.
 - Metrics such as accuracy, precision, recall, and F1-score are used for model evaluation.
 
-## CSEN1022: Assignment 3 - K-Means Clustering
+## K-Means Clustering
 
 **Description**: This repository contains code and documentation for a K-means clustering assignment on a dataset of images. The project involves reading and processing data, performing K-means clustering, evaluating the results, and visualizing the outcomes.
 

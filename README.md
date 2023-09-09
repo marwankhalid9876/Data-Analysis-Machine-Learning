@@ -5,7 +5,6 @@ This GitHub repository contains a Jupyter Notebook showcasing a comprehensive an
 ## Dataset Information
 
 - **Name:** Air Quality and Weather Dataset
-- **Source:** [Provide source link if applicable]
 - **Description:** This dataset includes information about air quality, temperature, humidity, and other related variables collected at different time intervals.
 
 ### Features

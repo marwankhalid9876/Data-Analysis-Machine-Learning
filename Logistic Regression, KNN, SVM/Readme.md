@@ -40,4 +40,26 @@ To run the code in this project, you need the following libraries:
 - scikit-learn
 
 You can install these libraries using `pip` or `conda`. For example:
+pip install pandas numpy matplotlib seaborn scikit-learn
+
+## Gene Expression Dataset
+
+This section of the project focuses on the Gene Expression Dataset. It includes data visualization, feature engineering, model selection, and evaluation. The chosen model is Logistic Regression.
+
+## Income Dataset
+
+The Income Dataset analysis is covered in this section. It involves handling missing values, feature engineering, model selection, and evaluation. Logistic Regression, KNN, and SVM models are applied.
+
+## Heart Disease Dataset
+
+This section explores the Heart Disease Dataset. It includes preprocessing, model selection (Logistic Regression, KNN, SVM), and evaluation. Emphasis is placed on recall as we aim to detect heart disease accurately.
+
+## Conclusion
+
+The conclusion section summarizes the results and key findings from the project. It highlights the best-performing models for each dataset and the reasoning behind their performance. The impact of data characteristics and model choice on performance is discussed.
+
+For detailed code and analysis, please refer to the respective notebook files.
+
+Feel free to explore the code and analysis in each notebook for more in-depth information about each dataset and model's performance.
+
 

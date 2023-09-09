@@ -2,7 +2,7 @@
 
 This repository contains code and analysis for three different machine learning and data analysis projects. Each project explores a different dataset and applies various techniques and algorithms to make predictions or gain insights.
 
-## Polynomial Regression Notebook
+## Polynomial Regression
 
 **Description**: This notebook focuses on building a polynomial regression model to predict a specific target variable based on air quality measurements and weather data. It includes data preprocessing, exploratory data analysis, model selection, evaluation, and visualization.
 
@@ -13,7 +13,7 @@ This repository contains code and analysis for three different machine learning 
 - Absolute Error on the test dataset: 11.38
 - Absolute Error on the training dataset: 10.40
 
-## Logistic Regression, KNN, SVM README
+## Logistic Regression, KNN, SVM
 
 **Description**: This repository explores three different datasets and applies various classification algorithms, including Logistic Regression, K-Nearest Neighbors (KNN), and Support Vector Machines (SVM), to predict outcomes in different scenarios. The datasets cover predicting cancer presence, income levels, and heart disease presence.
 

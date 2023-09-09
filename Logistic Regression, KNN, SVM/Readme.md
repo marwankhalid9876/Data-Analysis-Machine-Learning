@@ -1,4 +1,4 @@
-# Machine Learning Project README
+# Logisitic Regression, KNN, SVM README
 
 This repository contains code and analysis for a machine learning project that explores three different datasets and applies various classification algorithms. The project aims to predict outcomes in different scenarios using different machine learning models.
 

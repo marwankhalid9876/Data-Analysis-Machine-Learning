@@ -1,4 +1,4 @@
-# Machine Learning and Data Analysis Repository
+# Data Analysis and Machine Learning Repository
 
 This repository contains code and analysis for three different machine learning and data analysis projects. Each project explores a different dataset and applies various techniques and algorithms to make predictions or gain insights.
 
